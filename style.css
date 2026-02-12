@@ -34,7 +34,7 @@ h3{
     font-style: normal;
 }
 
-h5{
+h4{
     font-family: "Saira Condensed", sans-serif;
     font-weight: 800;
     font-style: normal;
@@ -43,5 +43,14 @@ h5{
 .row p{
     font-family: "Saira Condensed", sans-serif;
     font-weight: 500;
+    font-style: normal;
+}
+
+.about-me h2{
+    margin-left: 25px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    font-family: "Pirata One", system-ui;
+    font-weight: 100;
     font-style: normal;
 }
